@@ -1,6 +1,6 @@
 # Avnish Kumar Static Website
 
-This is a no-build static website generated from `website.pdf`.
+This  is a no-build static website generated from `website.pdf`.
 
 ## Files
 
